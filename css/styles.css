@@ -1,0 +1,179 @@
+#title
+{
+  background-color: #ff4c68;
+
+
+}
+h1
+{
+  font-family: 'Montserrat';
+  font-size:3.5rem;
+  line-height: 1.5;
+  color:white;
+  margin: 30px 0;
+  padding-top: 3%
+
+}
+
+.container-fluid
+{
+  padding: 3% 15% 7%;
+}
+
+.rotate
+{
+  transform: rotate(25deg);
+  position:absolute;
+ width:18%;
+ right:22%;
+ top:30%;
+}
+#features
+{
+background-color: white;
+padding:7% 15% 7%;
+position: relative;
+}
+.fea
+{
+  text-align:center;
+  padding: 6%;
+}
+
+body{
+  font-family: 'Montserrat-Thin';
+}
+.navbar-brand
+{
+  font-family:'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.nav-link
+{
+  font-family: 'Montserrat-Light';
+  font-size:1.2rem;
+}
+.btns
+{
+  margin: 0 10px;
+  padding: 5px 20px 0;
+}
+.icon
+{
+  color:#ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover
+{
+  color: #ff4c68;
+
+}
+
+
+
+
+h3
+{
+  font-family: 'Montserrat';
+}
+p
+{
+  font-family: 'Montserrat-Light';
+  color: grey;
+}
+#testimonials
+{
+background-color: #ef8172;
+text-align: center;
+color: white;
+padding: 7% 15% 7%;
+
+}
+h2
+{
+  font-size: 3rem;
+  font-family: 'Montserrat';
+}
+.img
+{
+  width:15%;
+  margin-bottom:7%;
+}
+.dog
+{
+    border-radius: 100%;
+    width:10%;
+    margin:3%;
+}
+#press
+{
+  text-align: center;
+  background-color: #ef8172;
+
+}
+em
+{
+  font-size:1rem;
+}
+.testimonial-image
+{
+  border-radius: 100%;
+  width:10%;
+  margin: 3%;
+}
+#pricing
+{
+  text-align: center;
+  padding: 100px;
+}
+.pad{
+  padding: 3% 2%;
+}
+@media(max-width:1288px){
+  #title{
+    text-align: center;
+  }
+  .rotate{
+    padding-top: 3%;
+    position: static;
+    width:50%;
+    transform: rotate(0);
+    text-align:center;
+  }
+}
+#cta
+{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+#footer
+{
+ text-align: center;
+ background-color: white;
+ margin-top: 6% ;
+ margin-bottom: 6%;
+}
+.last
+{
+  display: inline-block;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 4%;
+}
+.awe{
+  display: inline-block;
+  width:900px;
+  color: #fff;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.ic{
+  margin: auto 3px;
+}
